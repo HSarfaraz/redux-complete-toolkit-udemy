@@ -1,0 +1,3 @@
+### Installation steps
+
+npm i
