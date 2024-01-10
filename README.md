@@ -1,4 +1,4 @@
-### redux-complete-toolkit-udemy
+### Redux complete toolkit udemy
 
 #### Course link
 <a href="https://www.udemy.com/course/redux-core-react-redux-redux-toolkit-complete-course">Course link</a>
